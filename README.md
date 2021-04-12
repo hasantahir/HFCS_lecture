@@ -7,3 +7,6 @@ This `jupuyter notebook` is borrowed from Daniel Skatz workshop presentation whi
 `https://github.com/danielskatz/repro-fdtd1d`.
 
 Slight change is the introduction of PEC boundary conditions at both boundaries.
+
+## MyBinder Launch
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hasantahir/HFCS_lecture/HEAD)
